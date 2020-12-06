@@ -17,17 +17,10 @@ class About extends React.Component {
                             <div className="columns contact-details">
                                 <h2>Contact Details</h2>
                                 <p className="address">
-                                    <span>Jonathan Doe</span><br />
-                                    <span>1600 Amphitheatre Parkway<br />
-                    Mountain View, CA 94043 US
-                  </span><br />
-                                    <span>(123)456-7890</span><br />
-                                    <span>anyone@website.com</span>
-                                </p>
-                            </div>
-                            <div className="columns download">
-                                <p>
-                                    <a href="#" className="button"><i className="fa fa-download" />Download Resume</a>
+                                    <span>Rohit Kashyap</span><br />
+                                    <span>New Delhi, India</span><br />
+                                    <span>(+91) 8700 1712 80</span><br />
+                                    <span>rightrohit96@gmail.com</span>
                                 </p>
                             </div>
                         </div> {/* end row */}
