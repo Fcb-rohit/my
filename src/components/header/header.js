@@ -16,7 +16,7 @@ class Header extends React.Component {
                         <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
                         <li><a className="smoothscroll" href="#contact">Contact</a></li>
                     </ul>
-                </nav>>
+                </nav>
                 <div className="row banner">
                     <div className="banner-text">
                         <h1 className="responsive-headline">I'm {resumeData.name}.</h1>
