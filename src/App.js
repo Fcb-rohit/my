@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
         <Header data={data}/>
-        <About />
+        <About data={data}/>
         <Resume />
         <Portfolio />
         <Contact />
