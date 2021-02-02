@@ -21,9 +21,9 @@ class Header extends React.Component {
                         <h3>{resumeData.intro} Let's <a className="smoothscroll" href="#about">start scrolling</a> and learn more <a className="smoothscroll" href="#about">about me</a>.</h3>
                         <hr />
                         <ul className="social">
-                            <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i className="fa fa-instagram"></i></a></li>
+                            <li><a href="mailto:rightrohit96@gmail.com"><i className="fa fa-envelope"></i></a></li>
+                            <li><a href="https://twitter.com/code_rohit" target="_blank"><i className="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.instagram.com/itsrohit_kashyap/" target="_blank"><i className="fa fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>

@@ -12,8 +12,8 @@ class Resume extends React.Component {
                     <div className="nine columns main-col">
                         <div className="row item">
                             <div className="twelve columns">
-                                <h3>Institute of Life</h3>
-                                <p className="info">Diploma in Information technology <span>&bull;</span> <em className="date">August 2017</em></p>
+                                <h3>Industrial Training Institute</h3>
+                                <p className="info">Diploma in Information technology (IT) <span>&bull;</span> <em className="date">August 2017</em></p>
                             </div>
                         </div> {/*} item end */}
                     </div> {/*} main-col end */}
@@ -22,13 +22,13 @@ class Resume extends React.Component {
       */}
                 <div className="row work">
                     <div className="three columns header-col">
-                        <h1><span>Work</span></h1>
+                        <h1><span>Present</span></h1>
                     </div>
                     <div className="nine columns main-col">
                         <div className="row item">
                             <div className="twelve columns">
                                 <h3>Graposs Edutech</h3>
-                                <p className="info">Web Developer <span>&bull;</span> <em className="date">September 2017 - Present</em></p>
+                                <p className="info">Web & App Developer <span>&bull;</span> <em className="date">September 2017 - Present</em></p>
                                 <p>Worked on core php , worpdress ,angular js and ionic framework</p>
                             </div>
                         </div> {/*} item end */}
@@ -39,10 +39,15 @@ class Resume extends React.Component {
                                 <p>Created a complete database and website pages stucture.</p>
                             </div>
                         </div> {/*} item end */}
+                        <div className="row item">
+                            <div className="twelve columns">
+                                <h3>IONIC App</h3>
+                                <p className="info">Available on play store named : Setmaro,AbhyasPoint <span>&bull;</span></p>
+                            </div>
+                        </div> {/*} item end */}
                     </div> {/*} main-col end */}
                 </div> {/*} End Work */}
-                {/*} Skills
-      */}
+                {/*} Skills */}
                 <div className="row skill">
                     <div className="three columns header-col">
                         <h1><span>Skills</span></h1>
@@ -50,12 +55,14 @@ class Resume extends React.Component {
                     <div className="nine columns main-col">
                         <div className="bars">
                             <ul className="skills">
-                                <li><span className="bar-expand photoshop"></span><em>Wordpress</em></li>
-                                <li><span className="bar-expand illustrator"></span><em>Core PHP</em></li>
-                                <li><span className="bar-expand wordpress"></span><em>Jquery</em></li>
+                                <li><span className="bar-expand wordpress"></span><em>Wordpress</em></li>
+                                <li><span className="bar-expand php"></span><em>Core PHP</em></li>
+                                <li><span className="bar-expand jquery"></span><em>Jquery</em></li>
                                 <li><span className="bar-expand css"></span><em>CSS</em></li>
-                                <li><span className="bar-expand css"></span><em>Javascript</em></li>
-                                <li><span className="bar-expand css"></span><em>Ionic</em></li>
+                                <li><span className="bar-expand javascript"></span><em>Javascript</em></li>
+                                <li><span className="bar-expand ionic"></span><em>Ionic</em></li>
+                                <li><span className="bar-expand react"></span><em>React</em></li>
+                                <li><span className="bar-expand angular"></span><em>Angular</em></li>
                             </ul>
                         </div>{/*} end skill-bars */}
                     </div> {/*} main-col end */}
