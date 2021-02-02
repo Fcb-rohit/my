@@ -29,7 +29,7 @@ class Resume extends React.Component {
                             <div className="twelve columns">
                                 <h3>Graposs Edutech</h3>
                                 <p className="info">Web & App Developer <span>&bull;</span> <em className="date">September 2017 - Present</em></p>
-                                <p>Worked on core php , worpdress ,angular js and ionic framework</p>
+                                <p>Worked on Core PHP , Worpdress ,AngularJs and Ionic framework</p>
                             </div>
                         </div> {/*} item end */}
                         <div className="row item">
