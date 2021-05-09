@@ -1,3 +1,3 @@
 # View Portfolio
 
-https://fcb-rohit.github.io/resume/
+https://fcb-rohit.github.io/my/
