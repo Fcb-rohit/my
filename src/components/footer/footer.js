@@ -8,8 +8,8 @@ class Footer extends React.Component {
                     <div className="twelve columns">
                         <ul className="social-links">
                         <li><a href="mailto:rightrohit96@gmail.com"><i className="fa fa-envelope"></i></a></li>
-                            <li><a href="https://twitter.com/code_rohit" target="_blank"><i className="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.instagram.com/itsrohit_kashyap/" target="_blank"><i className="fa fa-instagram"></i></a></li>
+                            <li><a href="https://twitter.com/code_rohit" target="_blank" rel="noreferrer" ><i className="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.instagram.com/itsrohit_kashyap/" target="_blank" rel="noreferrer"><i className="fa fa-instagram"></i></a></li>
                         </ul>
                         <ul className="copyright">
                         <li>&copy; Copyright {(new Date().getFullYear())} Rohit Kashyap</li>

@@ -7,7 +7,7 @@ class Header extends React.Component {
             <header id="home">
                 <nav id="nav-wrap">
                     <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
-                    <a className="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+                    <a className="mobile-btn" href="javascript:void(0);" title="Hide navigation">Hide navigation</a>
                     <ul id="nav" className="nav">
                         <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
                         <li><a className="smoothscroll" href="#about">About</a></li>
@@ -22,8 +22,8 @@ class Header extends React.Component {
                         <hr />
                         <ul className="social">
                             <li><a href="mailto:rightrohit96@gmail.com"><i className="fa fa-envelope"></i></a></li>
-                            <li><a href="https://twitter.com/code_rohit" target="_blank"><i className="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.instagram.com/itsrohit_kashyap/" target="_blank"><i className="fa fa-instagram"></i></a></li>
+                            <li><a href="https://twitter.com/code_rohit" target="_blank" rel="noreferrer"><i className="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.instagram.com/itsrohit_kashyap/" target="_blank" rel="noreferrer"><i className="fa fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
