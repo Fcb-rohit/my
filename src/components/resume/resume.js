@@ -42,11 +42,15 @@ class Resume extends React.Component {
                                 <p className="info">FullStack Developer <span>&bull;</span></p>
                                 <p>Created a complete database and website pages stucture.</p>
                             </div>
+                            <div className="twelve columns">
+                                <h3>Parvati Online</h3>
+                                <p>Created a wallet and franchise system for this.</p>
+                            </div>
                         </div> {/*} item end */}
                         <div className="row item">
                             <div className="twelve columns">
                                 <h3>IONIC App</h3>
-                                <p className="info">Available on play store named : Setmaro,AbhyasPoint <span>&bull;</span></p>
+                                <p className="info">Available on play store named : Setmaro,AbhyasPoint,Eclara,Swastika Academy <span>&bull;</span></p>
                             </div>
                         </div> {/*} item end */}
                     </div> {/*} main-col end */}
@@ -67,6 +71,10 @@ class Resume extends React.Component {
                                 <li><span className="bar-expand ionic"></span><em>Ionic</em></li>
                                 <li><span className="bar-expand react"></span><em>React</em></li>
                                 <li><span className="bar-expand angular"></span><em>Angular</em></li>
+                                <li><span className="bar-expand angular"></span><em>Node Js</em></li>
+                                <li><span className="bar-expand angular"></span><em>Python</em></li>
+                                <li><span className="bar-expand angular"></span><em>Laravel</em></li>
+                                <li><span className="bar-expand angular"></span><em>CodeIgniter</em></li>
                             </ul>
                         </div>{/*} end skill-bars */}
                     </div> {/*} main-col end */}
