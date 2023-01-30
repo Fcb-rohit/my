@@ -15,10 +15,6 @@ class Resume extends React.Component {
                                 <h3>Industrial Training Institute</h3>
                                 <p className="info">Diploma in Information technology (IT) <span>&bull;</span> <em className="date">August 2017</em></p>
                             </div>
-                            <div className="twelve columns">
-                                <h3>Bachelor in Computer Applications (pursuing)</h3>
-                                <p className="info">I.G.N.O.U <span>&bull;</span></p>
-                            </div>
                         </div> {/*} item end */}
                     </div> {/*} main-col end */}
                 </div> {/*} End Education */}
